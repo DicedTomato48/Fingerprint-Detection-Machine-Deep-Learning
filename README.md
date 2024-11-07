@@ -1,6 +1,6 @@
 # 🧬 Fingerprint Detection from Images and Videos using Deep Learning
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-YOLO%20%7C%20RT--DETR-blue) ![GitHub](https://img.shields.io/github/license/your-repo-name/license) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-YOLO%20%7C%20RT--DETR-blue) ![GitHub](https://img.shields.io/github/license/Fingerprint-Detection-Machine-Deep-Learning/license) 
 
 A cutting-edge, deep learning-powered repository for fingerprint detection in images and videos, built for applications in real-time biometric security, forensic analysis, and human-computer interaction. This framework combines speed and accuracy to achieve high precision in challenging, real-world conditions. 
 
